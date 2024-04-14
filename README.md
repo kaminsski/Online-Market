@@ -1,10 +1,12 @@
 # Online-Market
- link: https://online-market-kappa.vercel.app/
  Online-market website built in React
 
 
 Basic react features have been tested on the Website. A product adding to cart and purchasing scenario has been created on the Website.
 
+## Link
+
+ link: https://online-market-kappa.vercel.app/
 
 
 ## Technologies used
